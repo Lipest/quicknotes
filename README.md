@@ -1,31 +1,29 @@
-
-
 ## README.md para o projeto QuickNotes
 
-markdown
 # QuickNotes 📝
 
-**Descrição breve**: QuickNotes é uma aplicação Java ,nele podemos criar, gerenciar e categorizar anotações e lembretes usando SQLite como banco de dados.
+**Descrição concisa**: QuickNotes é uma aplicação Java que permite criar, gerenciar e categorizar anotações e lembretes, usando SQLite como sistema de gerenciamento de banco de dados.
 
-![Imagem ilustrativa do QuickNotes](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1dFl_8i6Ev4mDkbVpv0fJs9qjoIzvMHaCRQ&usqp=CAU) 
+![Ilustração do QuickNotes](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1dFl_8i6Ev4mDkbVpv0fJs9qjoIzvMHaCRQ&usqp=CAU) 
 
 ## 🚀 Funcionalidades
 
-1. **Permite o CRUD de Anotações**: Adicione, leia, atualize e delete notas.
-2. **Permite o CRUD de Categorias**: Organize suas notas em categorias.
-3. **Permite o CRUD de Lembretes**: Defina lembretes para suas tarefas e anotações.
-4. **SQLite Integration**: Todas as informações são armazenadas localmente no SQLite.
+1. **Gerenciamento Completo de Anotações**: Possibilidade de adicionar, visualizar, atualizar e excluir notas.
+2. **Organização Eficiente com Categorias**: Categorize suas notas conforme sua preferência.
+3. **Lembretes Personalizáveis**: Defina lembretes para suas tarefas e anotações importantes.
+4. **Integração com SQLite**: Todas as informações são armazenadas localmente usando SQLite.
 
 ## 📚 Requisitos
 
 - Java JDK 8+
 - SQLite
 
+
 ## 🛠️ Instalação e Uso
 
 **1. Clonando o projeto**:
 bash
-git clone https://github.com/seu_usuario/quicknotes.git
+git clone https://github.com/felipestc/quicknotes.git
 
 
 **2. Navegue até o diretório**:
@@ -47,6 +45,6 @@ Este projeto está sob a licença [Nome da Licença](LINK_PARA_LICENÇA). Consul
 
 - Nome: Felipe Santos Carvalho
 - Email: lipests111@gmail.com
-- LinkedIn/GitHub: @seu_usuario
+- LinkedIn: @www.linkedin.com/in/felipestc1973
+- GitHub: @felipestc
 
----
