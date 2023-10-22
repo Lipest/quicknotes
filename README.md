@@ -22,7 +22,7 @@
 
 **1. Clonando o projeto**:
 bash
-git clone https://github.com/lipestc/quicknotes
+git clone https://github.com/felipestc/quicknotes
 
 
 **2. Navegue até o diretório**:
