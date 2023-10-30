@@ -44,6 +44,9 @@ Este projeto está sob a licença [Nome da Licença](LINK_PARA_LICENÇA). Consul
 
 - Nome: Felipe Santos Carvalho
 - Email: lipests111@gmail.com
-- LinkedIn/GitHub: @seu_usuario
+- GitHub: @felipestc
+- LinkedIn: www.linkedin.com/in/felipestc1973
+
+
 
 
