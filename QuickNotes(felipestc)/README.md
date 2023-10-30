@@ -37,7 +37,7 @@ Contribuições são sempre bem-vindas! Veja [CONTRIBUTING.md](CONTRIBUTING.md) 
 
 ## 📋 Licença
 
-Este projeto está sob a licença [Nome da Licença](https://github.com/felipestc/quicknotes/blob/main/LICENSE). Consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
+Este projeto está sob a licença [Nome da Licença](https://github.com/felipestc/quicknotes/blob/main/LICENSE). Consulte o arquivo [LICENSE] para obter detalhes.
 
 ## Contato
 
