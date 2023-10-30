@@ -1,4 +1,4 @@
-## README.md para o projeto QuickNotes
+b## README.md para o projeto QuickNotes
 ![QuickNotes Logo](https://th.bing.com/th/id/R.e1d7d5807fd4b0ca06463e826e09f6f5?rik=HoCR4op9v64kog&riu=http%3a%2f%2fwww.qnotes.com%2fimages%2fSoap-Notes-Quick-Notes-Logo.png&ehk=3%2bKhjZPIVPVclYMAtZy5XUMzyPjj6fMs2TEprHk%2bvak%3d&risl=&pid=ImgRaw&r=0)
 
 # QuickNotes 📝
@@ -37,7 +37,7 @@ Contribuições são sempre bem-vindas! Veja [CONTRIBUTING.md](CONTRIBUTING.md) 
 
 ## 📋 Licença
 
-Este projeto está sob a licença [Nome da Licença](LINK_PARA_LICENÇA). Consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
+Este projeto está sob a licença [Nome da Licença](https://github.com/felipestc/quicknotes/blob/main/LICENSE). Consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
 
 ## Contato
 
